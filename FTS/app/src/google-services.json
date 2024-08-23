@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294428531749",
+    "project_id": "fts-1-6ade0",
+    "storage_bucket": "fts-1-6ade0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294428531749:android:5087e8afb796e825dcb3cc",
+        "android_client_info": {
+          "package_name": "com.dharven.fts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294428531749-n7lm0mi8foq5inc9hdstmnhhib6o78lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RooONQi8iMask9FsuqvfJra6lYecmA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294428531749-n7lm0mi8foq5inc9hdstmnhhib6o78lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
